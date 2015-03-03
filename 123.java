@@ -1,5 +1,6 @@
 kk
-public static void main (string args[]){
-  
-  System.out.println("Hello");
+class HelloWorldApp {
+    public static void main(String[] args) {
+        System.out.println("Hello World!"); 
+    }
 }
